@@ -1,6 +1,6 @@
 - 👋 Hi, I’m alisson xavier
-- 👀 I’m interested in be a developer some day and i am studying every day to reach this objective 
-- 🌱 I’m currently learning CSS,Javascript and HTML
+- 👀 I’m interested in be a developer some day and i am studying every day to reach this objective! 
+- 🌱 I’m currently studying systems analysis and development.
 
 
 <!---
